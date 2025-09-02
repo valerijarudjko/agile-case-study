@@ -19,3 +19,11 @@ Despite the rapid growth of Fierce Shoe, their strategy has always been to take 
 
 Fierce Shoe features Spanish design and is manufactured in Portugal. They use materials that are safe for children and the environment (the leather is not tanned with heavy metals or chrome and includes vegan materials), and they have a small team along with collaborators specializing in both physical and cognitive child development.
 
+________________
+## To do:
+1) Create empathy maps for five different people and develop the value proposition of Fierce Shoe.
+2) One aspect of Fierce Shoe that receives criticism is their sales system: virtual queue, limited physical sales points, and return system. Develop a RICE matrix and identify elements that can be improved or are eligible for elimination. Justify your response.
+3) Design a Canvas model for Fierce Shoe.
+4) Based on the 12 principles and the nature of the company, do you think Fierce Shoe would be suited to an agile methodology? Why or why not? Justify your answer.
+   
+
