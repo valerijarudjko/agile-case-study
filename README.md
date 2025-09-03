@@ -25,5 +25,25 @@ ________________
 2) One aspect of Fierce Shoe that receives criticism is their sales system: virtual queue, limited physical sales points, and return system. Develop a RICE matrix and identify elements that can be improved or are eligible for elimination. Justify your response.
 3) Design a Canvas model for Fierce Shoe.
 4) Based on the 12 principles and the nature of the company, do you think Fierce Shoe would be suited to an agile methodology? Why or why not? Justify your answer.
+5) Having received some complaints about the return system for products purchased on the website, as well as the virtual queue and the pre-sale, you decide to make improvements in these areas. Develop a lean innovation and improvement proposal for one of these elements.
+______________
+### Agile Methodology Tools:
+- RICE Matrix
+- Business Canvas Model
+- 12 Principles and the Nature of the Company
+
+_____
+### Bibliography:
+- https://agilecoffee.com/toolkit/empathy-map/
+- https://ntegrity.com.au/blog/empathy-mapping/
+- https://www.strategyzer.com/library/the-value-proposition-canvas
+- https://blog.hubspot.com/marketing/write-value-proposition
+- https://big-agile.com/blog/reach-impact-confidence-effort-rice
+- https://www.atlassian.com/agile/product-management/prioritization-framework
+- https://vc.ru/marketing/274778-12-metodov-prioritizacii-produktovyh-celei-rice-wsjf-kano-i-prochie
+- https://plaky.com/blog/rice-framework/
+- https://www.forbes.com/sites/yec/2014/04/03/12-principles-for-leading-an-extraordinary-company/
+- https://agilealliance.org/agile101/12-principles-behind-the-agile-manifesto/ 
+
    
 
