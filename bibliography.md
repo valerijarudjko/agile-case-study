@@ -1,2 +1,16 @@
 # Bibliography
 ------
+- https://agilealliance.org/agile101/12-principles-behind-the-agile-manifesto/
+- https://agilecoffee.com/toolkit/empathy-map/
+- https://big-agile.com/blog/reach-impact-confidence-effort-rice
+- https://blog.hubspot.com/marketing/write-value-proposition
+- https://ntegrity.com.au/blog/empathy-mapping/
+- https://plaky.com/blog/rice-framework/
+- https://vc.ru/marketing/274778-12-metodov-prioritizacii-produktovyh-celei-rice-wsjf-kano-i-prochie
+- https://www.amper.co/post/lean-manufacturing-examples
+- https://www.atlassian.com/agile/product-management/prioritization-framework
+- https://www.atlassian.com/agile/project-management/lean-process-improvement
+- https://www.deepl.com/en/translator
+- https://www.forbes.com/sites/yec/2014/04/03/12-principles-for-leading-an-extraordinary-company/
+- https://www.qmarkets.net/resources/article/lean-innovation-management/
+- https://www.strategyzer.com/library/the-value-proposition-canvas
